@@ -1,2 +1,2 @@
-This is first line in testrepo file modifying
+This is first line in testrepository file 
 This is second line from CLI
